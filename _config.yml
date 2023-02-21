@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: The Joker Printer Reference
+description: An information repo on The Forgotten Imp's V-Core 3 printer
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://exitalterego.github.io/thejoker
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  File Repository: https://github.com/Exitalterego/thejoker
