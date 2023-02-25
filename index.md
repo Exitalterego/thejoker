@@ -3,13 +3,10 @@ title: Home
 layout: home
 ---
 
-If you have somehow managed to find this page, welcome! This site is an informational repository, currently listing instructions, procedures and customised files for the [Ratrig V-Core 3] printer that I manage and maintain for [The Forgotten Imp]. As such, I doubt it will have much use for the casual reader, but by all means feel free to borrow the information here for your own projects if you feel it is of use, especially as its unlikely that much of it has originated from myself in the first place!
-  
-Exitalterego
-{: .float-right } 
+If you have somehow managed to find this page, welcome! This site is an informational repository, currently listing instructions, procedures and customised files for the [Rat Rig V-Core 3] printer that I manage and maintain for [The Forgotten Imp]. As such, I doubt it will have much use for the casual reader, but by all means feel free to borrow the information here for your own projects if you feel it is of use, especially as its unlikely that much of it has originated from myself in the first place!
 
-[ A button ]
-{: .d-none .d-md-inline-block}
+\- Exitalterego
+{: .float-right } 
 
 ----
 
@@ -32,7 +29,7 @@ To get started with creating a site, just click "[use this template]"!
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
-[Ratrig V-Core 3]: https://v-core.ratrig.com/
+[Rat Rig V-Core 3]: https://v-core.ratrig.com/
 [The Forgotten Imp]: https://www.theforgottenimp.com/
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
