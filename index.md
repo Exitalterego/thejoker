@@ -5,9 +5,7 @@ layout: home
 
 If you have somehow managed to find this page, welcome! This site is an informational repository, currently listing instructions, procedures and customised files for the [Rat Rig V-Core 3] printer that I manage and maintain for [The Forgotten Imp]. As such, I doubt it will have much use for the casual reader, but by all means feel free to borrow the information here for your own projects if you feel it is of use, especially as its unlikely that much of it has originated from myself in the first place!
 
-\- Exitalterego
-{: .float-right } 
-
+\- Exitalterego {: .float-right }
 
 ----
 
