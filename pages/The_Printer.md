@@ -1,7 +1,7 @@
 ---
 title: Overview
 layout: home
-nav_order: 1
+nav_order: 2
 ---
 
 The Joker is a modified V-Core 3 500 3D printer, originally designed by [Rat Rig]. It utilises a [CoreXY motion system] to allow for increased X and Y movement speeds, and has its print bed on the Z-axis to limit the mass that is being moved in lateral directions. More information on the specifics of the stock V-Core 3 can be found [here].
