@@ -14,10 +14,9 @@ Initial Printer Comissioning
 * Verify extruder
 * PID calibrate extruder and bed heaters
 
-``` PID_CALIBRATE HEATER=extruder TARGET=170
-
+```
+PID_CALIBRATE HEATER=extruder TARGET=170
 SAVE_CONFIG
-
 PID_CALIBRATE HEATER=heater_bed TARGET=60
-
-SAVE_CONFIG ```
+SAVE_CONFIG
+```
