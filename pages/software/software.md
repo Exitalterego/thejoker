@@ -16,7 +16,13 @@ Initial Printer Comissioning
 
 ```
 PID_CALIBRATE HEATER=extruder TARGET=170
+```
+```
 SAVE_CONFIG
+```
+```
 PID_CALIBRATE HEATER=heater_bed TARGET=60
+```
+```
 SAVE_CONFIG
 ```
