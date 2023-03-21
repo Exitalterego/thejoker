@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Hardware BOM
-parent: hardware
+parent: Hardware
 nav_order: 1
 ---
 
