@@ -6,3 +6,21 @@ url: https://exitalterego.github.io/thejoker
 
 aux_links:
   File Repository: https://github.com/Exitalterego/thejoker
+
+# See https://just-the-docs.github.io/just-the-docs/docs/configuration/#callouts
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
