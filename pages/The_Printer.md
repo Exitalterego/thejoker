@@ -10,6 +10,12 @@ The printer itself currently utilises [RatOS] (v2 beta) as its firmware. This is
 
 The printer is utilising a [Raspberry Pi Model B 4GB] in partnership with a [Big Tree Tech Octpus Pro 429] control board. It's important to note that the Octopus 429 is not the preferred control board as it does not currently allow software update via USB connection. If Klipper is updated on the RPi, it must be manually flashed to the Octopus via the SD card.
 
+General Order of Operation
+* Power on
+* Home all axis
+* Z-tilt
+* Home Z
+
 [Rat Rig]: https://www.ratrig.com
 [CoreXY motion system]: https://corexy.com/index.html
 [here]: https://v-core.ratrig.com/

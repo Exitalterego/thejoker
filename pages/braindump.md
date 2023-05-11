@@ -16,9 +16,10 @@ This page is a temporary holding space for anything I feel should go into this d
 - Main site sections: hardware, electronics, software
     - Main assembly instructions, specifically changes to default including mods
     - Troubleshooting - problems encountered and solutions discovered
-        - Warnings about thermistor on inital install, temporary solution used, final solution found
+        - Warnings about thermistor on initial install, temporary solution used, final solution found
         - Reconfiguring axis of ADXL due to accelerometer orientation
         - Belt tensioning (currently no solution that I am happy with)
+        - Write up of combo bowing + z-tilt issue with diagrams for clarity. Solution was to create a "Click me first" macro and then remove z-tilt from PRINT_START macro
 - Diagrams/Images: schematic/photographic reference material
 - How to calibrate the printer section
 - How to print section
